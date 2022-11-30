@@ -22,3 +22,6 @@ Now to deploy your code to Heroku, use the git push command with Heroku:
 git push heroku main
 
 Whenever you want to deploy the latest committed version of your code to Heroku use this command. This command will only affect the code you push to the master or main branches. Heroku remote has no effect on other branches.
+
+
+Heroku link to access application - https://comp247-g7-bike-theft-model.herokuapp.com/
